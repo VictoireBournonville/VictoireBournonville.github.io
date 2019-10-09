@@ -9,7 +9,7 @@
   <h1>Travel to CostaRica </h1>
   
   <p>... and you'll get to see these beauties!</p>
-  <img src="httS://www.kasandbox.org/programming-images/animals/crocodiles.png"alt="Scary crocodile"width="200"/>
+  <img src="https://www.kasandbox.org/programming-images/animals/crocodiles.png"alt="Scary crocodile"width="200"/>
   </body>
 </html>
  
